@@ -7,7 +7,7 @@ package BaiTap.Tuan5;
  * 
  */
 public class CD {
-	//thuoc tinh
+	//thuoc tinh 
 	private int maCD;
 	private String tuaCD;
 	private int soBaiHat;
